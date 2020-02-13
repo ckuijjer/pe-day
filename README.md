@@ -85,7 +85,7 @@ In the previous assignment you wrote some JavaScript code to implement a certain
 
 The design shows the button as follows:
 
-![Buy Button.png](/images/image2.png | width=250)
+![Buy Button.png](/images/image2.png)
 
 At the bottom of the App.js file you will find the following line of code:
 
@@ -203,7 +203,7 @@ Thank you for taking this workshop and planting some trees.
 
 If you have time left you can work on the bonus assignment. Bringing everything together you learned up to now your assignment is to add one extra button to the app. 
 
-![Add 10 button.png](/images/image3.png | width=250)
+![Add 10 button.png](/images/image3.png)
 
 - Add a +10 button that adds 10 trees at a time
 - Make sure to change the button is styled according to design. The background color is `#efefef`. The color is `#333`
