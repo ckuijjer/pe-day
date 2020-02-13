@@ -1,6 +1,6 @@
 # Hello World
 
-pre-readings: https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7
+pre-readings: [](https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7)
 
 In this workshop you will learn some basic understanding of coding tasks and software engineering. No prerequisite knowledge is required as the material is designed to take you through the required steps. Follow along, and raise your hand if you need assistance or have questions. You will work in groups of two or three people. 
 
