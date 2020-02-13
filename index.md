@@ -1,6 +1,6 @@
 # Hello World
 
-pre-readings: [](https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7)
+pre-readings: [https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7](https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7)
 
 In this workshop you will learn some basic understanding of coding tasks and software engineering. No prerequisite knowledge is required as the material is designed to take you through the required steps. Follow along, and raise your hand if you need assistance or have questions. You will work in groups of two or three people. 
 
@@ -23,7 +23,7 @@ Let's get started.
 ## Visit the CodeSandbox
 The CodeSandbox is an online environment which resembles the coding environment software engineers use on a daily basis. On of the most popular code editors of today is VSCode. The CodeSandBox can be thought of as an online version of VSCode.
 
-Follow this link https://codesandbox.io/s/plant-a-tree-pe-day-jh36j.
+Follow this link [https://codesandbox.io/s/plant-a-tree-pe-day-jh36j](https://codesandbox.io/s/plant-a-tree-pe-day-jh36j).
 
 Take some time to get familiar with the CodeSandbox application.
 
