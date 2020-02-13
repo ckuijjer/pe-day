@@ -32,13 +32,16 @@ Take some time to get familiar with the CodeSandbox application.
 The three main elements of the application:
 
 1. File Explorer
-Use this to switch between files
+
+   Use this to switch between files
 
 2. Code Editor
-This is where you will make changes to code
+
+   This is where you will make changes to code
 
 3. Running App
-This is the running app. Every time you make changes to the code the running app will update accordingly.
+
+   This is the running app. Every time you make changes to the code the running app will update accordingly.
 
 ## Fork the code
 
