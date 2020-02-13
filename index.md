@@ -23,7 +23,7 @@ Let's get started.
 ## Visit the CodeSandbox
 The CodeSandbox is an online environment which resembles the coding environment software engineers use on a daily basis. On of the most popular code editors of today is VSCode. The CodeSandBox can be thought of as an online version of VSCode.
 
-Follow this link [https://codesandbox.io/s/plant-a-tree-pe-day-jh36j](https://codesandbox.io/s/plant-a-tree-pe-day-jh36j).
+Follow this link [https://codesandbox.io/s/plant-a-tree-pe-day-jh36j](https://codesandbox.io/s/plant-a-tree-pe-day-jh36j)
 
 Take some time to get familiar with the CodeSandbox application.
 
